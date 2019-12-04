@@ -66,6 +66,7 @@ Setting up the project
         
     
 Schedule
+
 Sprint I
 
     Look over the project and read the goals to be met for project.
@@ -75,9 +76,10 @@ Sprint II
 
     Taking different sprint for text, image,Excel/CSV and video and implementing the functionalities of them respectively.
 
-Phase III
+Sprint III
 
-    Testing of all functionlities with different files. 
+    Testing of all functionlities with different files.
+    Deploying it to heroku
     
     
 Contribution Guidelines
